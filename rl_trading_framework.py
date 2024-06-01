@@ -1,12 +1,15 @@
+import os
+import time
+
 import torch.nn as nn
 import torch.optim as optim
 import torch.nn.functional as F
 import torch.distributed as dist
 from torch.nn.parallel import DistributedDataParallel as DDP
-import os
+
 from rl_functions import *
 from config import config
-import time
+
 
 
 # State encoding model (LSTM)

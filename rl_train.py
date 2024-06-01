@@ -1,8 +1,11 @@
-from config import config as cfg
-from rl_trading_framework import *
 from itertools import combinations 
 import multiprocessing
+
 from torch.multiprocessing import Process
+
+from config import config as cfg
+from rl_trading_framework import *
+
 
 
 def main():
