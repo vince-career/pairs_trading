@@ -1,5 +1,6 @@
 # Pairs Trading with Reinforcement Learning
 
+- All code in this repository was authored by Vince Wang.
 
 
 
