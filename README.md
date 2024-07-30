@@ -1,4 +1,4 @@
-# Pairs Trading with Reinforcement Learning
+# Pairs Trading with Reinforcement Learning Sample Code
 
 - All code in this repository was authored by Vince Wang.
 
