@@ -6,9 +6,9 @@
 
 # Disclaimer
  
-- The information provided on this website is for general knowledge-sharing and job-seeking purposes only.
+- This repository is intended to demonstrate Vince's coding skills for job-seeking and general knowledge-sharing purposes, with parameters and results provided purely for illustrative purposes.
 
-- No information contained here should be construed as investment advice.
+- No information contained in this repository should be construed as investment or trading advice.
 
 - All investment involves risk and potential loss of principal.
 
